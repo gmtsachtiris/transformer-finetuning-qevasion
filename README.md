@@ -2,7 +2,7 @@
 
 Fine-tuning and comparison of three transformer encoders — **BERT**, **DistilBERT**, and **DeBERTa-v3** — for **response clarity classification** on the **SemEval 2026 Task 6 (QEvasion)** dataset. Given a political interview **question** and the politician's **answer**, the task is to classify how directly the answer responds (e.g. *Clear Reply*, *Ambivalent*, *Clear Non-Reply*).
 
-> Coursework project for **Artificial Intelligence II — Deep Learning for NLP** (BSc in Informatics & Telecommunications, NKUA), submitted to SemEval 2026 Task 6.
+> Coursework project for **Artificial Intelligence II — Deep Learning for NLP** (BSc in Informatics & Telecommunications, NKUA).
 
 ## Problem
 
