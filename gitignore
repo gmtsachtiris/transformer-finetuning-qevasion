@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models / checkpoints
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+
+# Data
+data/
+*.csv
+*.tsv
+*.zip
+
+# OS
+.DS_Store
